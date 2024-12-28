@@ -122,8 +122,13 @@ These capabilities showcase object-oriented design in Java, basic numerical tech
 
 ## License
 
-This project is offered under the [MIT License](../LICENSE) (or whichever license you choose to include).  
-You are free to use, modify, and distribute this code in personal or commercial projects.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## Author
+
+Developed by [Elif Pulukçu](https://github.com/elifpulukcu).
 
 ---
 
